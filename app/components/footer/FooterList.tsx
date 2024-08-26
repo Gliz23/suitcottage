@@ -14,8 +14,9 @@ const FooterList: React.FC<FooterListProps> = ({
     lg:w-1/6
     mb-6
     flex
-    flex-colgap-2">
-      
+    flex-col
+    gap-2">
+      {children}
     </div>
   )
 }
