@@ -18,9 +18,9 @@ const Footer = () => {
             <Link href="#">Suits</Link>
             <Link href="#">Casual</Link>
             <Link href="#">Shirts</Link>
+            <Link href="#">Jackets</Link>
             <Link href="#">Wedding</Link>
             <Link href="#">Trousers</Link>
-            <Link href="#">Jackets</Link>
           </FooterList>
         </div>
       </Container>
