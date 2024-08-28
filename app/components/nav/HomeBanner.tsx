@@ -7,7 +7,7 @@ const HomeBanner = () => {
         <div>
             <h1>Summer Sale</h1>
             <p>Enjoy discounts on selected items</p>
-            <p>Get 50% OFF</p>
+            <p>Get 50% OFF </p>
         </div>
         <div></div>
       </div>
